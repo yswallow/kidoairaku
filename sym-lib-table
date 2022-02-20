@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ms88sf2")(type "Legacy")(uri "/home/yu/keyboard/lib/ms88sf2.lib")(options "")(descr "")(disabled))
+  (lib (name "akizuki")(type "Legacy")(uri "/home/yu/keyboard/lib/akizuki.lib")(options "")(descr "")(disabled))
+  (lib (name "SK6812MINI-E")(type "Legacy")(uri "/home/yu/keyboard/lib/SK6812MINI-E.lib")(options "")(descr "")(disabled))
+  (lib (name "ISP1807breakout-RaspberryPiPico-Dual")(type "Legacy")(uri "/home/yu/keyboard/lib/ISP1807breakout-RaspberryPiPico-Dual.lib")(options "")(descr "")(disabled))
+  (lib (name "myLib")(type "Legacy")(uri "/home/yu/keyboard/lib/myLib.lib")(options "")(descr "")(disabled))
+)
